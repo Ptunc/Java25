@@ -24,6 +24,6 @@ public class java25 {
         }
         System.out.println("en büyük: " + enBuyuk);
         System.out.println("en küçük: " + enKucuk);
-   
+        input.close();
     }
 }
